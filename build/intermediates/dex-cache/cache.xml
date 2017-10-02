@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.android/build-cache/1161609eaba173705ef1ccca514ca7dbd889d0d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63239bffa83fd9714aa61546cfb2c3624e35ddf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.android/build-cache/9a2a0513870599b9ffcb48332b53cd0088cf8df1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2205ad0cfcb85295495ec4030ea4ab4379a5dfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cd77cc738ae740b9198fe39c45952a6c41ca7d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.android/build-cache/aca7840198c2a1410f13953da029410f1c2c8015/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_adee03cb8a232bbf428b2bfff6c882cf03b38aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.android/build-cache/aca7840198c2a1410f13953da029410f1c2c8015/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_75f8c23a8943e7864c11f84ff1f219b61deead01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_e7de2bdabbeb3564c8608949989fc976dd1da9e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_4662a3c51e57fdc982920fd1865e1afc270e5040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a349b5559052480ebf102607320f6fcb276cfcc8">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c7679ea9b806f6e94dafd2b4a96e48727391d712/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_e77096943f233bd10d67ed754e49f3a9f3cfffba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.android/build-cache/78caf178bc804025268e0979be50810e2eb35753/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc7c4eb706525bfdb4c91a1e8d2c224569b2ae84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.android/build-cache/333b75fc3e16a58666c0d3e0f6bdec1fe4ac3713/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e345eaa0ecb56a69ea18576236c773f40b53fca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.0.1_1b509220e2771bb88579896a2c1a7e8d57a19700/classes.dex" />
+    </item>
+
+</items>
