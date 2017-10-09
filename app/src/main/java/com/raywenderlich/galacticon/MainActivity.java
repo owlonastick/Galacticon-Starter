@@ -40,6 +40,9 @@ public class MainActivity extends AppCompatActivity implements ImageRequester.Im
 
   private ArrayList<Photo> mPhotosList;
   private ImageRequester mImageRequester;
+  private RecyclerView mRecyclerView;
+  private LinearLayoutManager mLinearLayoutManager;
+  private RecyclerAdapter mAdapter;
 
   @Override
   public boolean onCreateOptionsMenu(Menu menu) {
@@ -53,8 +56,16 @@ public class MainActivity extends AppCompatActivity implements ImageRequester.Im
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
+    //Provide hooks to OnCreate
+    mRecyclerView = (RecyclerView) findViewById(R.id.recyclerView);
+    mLinearLayoutManager = new LinearLayoutManager(this);
+    mRecyclerView.setLayoutManager(mLinearLayoutManager);
+
 
     mPhotosList = new ArrayList<>();
+    mAdapter = new RecyclerAdapter(mPhotosList);
+    mRecyclerView.setAdapter(mAdapter);
+
     mImageRequester = new ImageRequester(this);
   }
 
@@ -62,6 +73,9 @@ public class MainActivity extends AppCompatActivity implements ImageRequester.Im
   protected void onStart() {
     super.onStart();
 
+    if (mPhotosList.size() == 0) {
+      requestPhoto();
+    }
   }
 
   private void requestPhoto() {
@@ -80,6 +94,7 @@ public class MainActivity extends AppCompatActivity implements ImageRequester.Im
       @Override
       public void run() {
         mPhotosList.add(newPhoto);
+        mAdapter.notifyItemInserted(mPhotosList.size());
       }
     });
   }
